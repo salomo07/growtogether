@@ -126,7 +126,8 @@ var love_it_vars = {"ajaxurl":"https:\/\/the-wedding-day.vamtam.com\/wp-admin\/a
 <h1 style="text-align: center;">Saturday &#8211; 06 March 2021</h1>
 <div class="push" style='height:20px'></div><img class="aligncenter" style="position: relative; z-index: 3; bottom: -8px; left: -8px;" title="" src="assets/img/element-5.svg" alt="" /></p>
 <div class="push" style='margin-bottom:-10px'></div>
-<div class="row "><div class="wpv-grid grid-1-5  wpv-first-level first unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-bb4990ca8a8f174ddf8711939f989299">
+<div class="row ">
+	<div class="wpv-grid grid-1-5  wpv-first-level first unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-bb4990ca8a8f174ddf8711939f989299">
 	<div class="push" style='height:80px'></div><img loading="lazy" class="aligncenter size-full wp-image-6724" src="assets/img/salomocircle.png" alt="portrait-woman" width="165" height="165" srcset="assets/img/salomocircle.png 165w, assets/img/salomocircle.png 43w, assets/img/salomocircle.png 86w" sizes="(max-width: 165px) 100vw, 165px" /></p>
 <h3 style="text-align: center;">Salomo Sitompul</h3>
 <p style="text-align: center;font-size: 30px;line-height: 1.2;">"Love is longest journey"</p>
@@ -374,7 +375,7 @@ March 22, 2013 </h5>
 </div>
 </div>
 </div></div>
-<div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-b5f0f2ca19cb2878c8b9fb905f8cbe6d"><p style="text-align: center;"><img loading="lazy" class="aligncenter size-full wp-image-6599" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/element-2.svg" alt="illustratation5" width="58" height="122" /> <a href="https://the-wedding-day.vamtam.com/blog/blog-layout-3/" target="_self" style='font-size: 24px;' class="vamtam-button accent1  "><span class="btext">GO TO BLOG</span></a><div class="push" style='height:50px'></div></div></div>
+<!-- <div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-b5f0f2ca19cb2878c8b9fb905f8cbe6d"><p style="text-align: center;"><img loading="lazy" class="aligncenter size-full wp-image-6599" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/element-2.svg" alt="illustratation5" width="58" height="122" /> <a href="https://the-wedding-day.vamtam.com/blog/blog-layout-3/" target="_self" style='font-size: 24px;' class="vamtam-button accent1  "><span class="btext">GO TO BLOG</span></a><div class="push" style='height:50px'></div></div></div> -->
 <div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first has-background extended" style="
 				background: url('https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/bg_pattrn.png') repeat ;
 				background-size: auto;
