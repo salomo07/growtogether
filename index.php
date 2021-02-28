@@ -199,214 +199,25 @@ lsjQuery("#layerslider_1").layerSlider({sliderVersion: '6.0.6', responsiveUnder:
 <h2 style="text-align: center;"> until we get married!</h2></div></div></div>
 <div class="push" style='height:40px'></div>
 <h2 style="text-align: center;">THE WEDDING EVENTS: <div class="push" style='height:30px'></div></h2>
-<img src="assets/img/invitation/Invitation2.jpg">
-<div class="push" style='height:30px'></div>
-<div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-5486ddc1e456b3f6d03564d1e46b5e21"><h2 class='column-title'>FROM THE BLOG:</h2><div class="push" style='height:30px'></div>
-<div class="loop-wrapper clearfix news scroll-x">
-<div class="vamtam-cubeportfolio cbp cbp-slider-edge" data-options="{&quot;layoutMode&quot;:&quot;slider&quot;,&quot;drag&quot;:true,&quot;auto&quot;:false,&quot;autoTimeout&quot;:5000,&quot;autoPauseOnHover&quot;:true,&quot;showNavigation&quot;:true,&quot;showPagination&quot;:false,&quot;scrollByPage&quot;:false,&quot;gridAdjustment&quot;:&quot;responsive&quot;,&quot;mediaQueries&quot;:[{&quot;width&quot;:712.5,&quot;cols&quot;:3},{&quot;width&quot;:465,&quot;cols&quot;:2},{&quot;width&quot;:217.5,&quot;cols&quot;:1}],&quot;gapHorizontal&quot;:0,&quot;gapVertical&quot;:30,&quot;displayTypeSpeed&quot;:100}">
-<div class="page-content post-head list-item cbp-item post-5357 post type-post status-publish format-image has-post-thumbnail hentry category-aristotle tag-color tag-fashion tag-girl post_format-post-format-image">
-<div class="post-article has-image-wrapper list-item">
-<div class="image-post-format clearfix as-normal ">
-<div class="thumbnail">
-<img width="340" height="340" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-5108725-couple-with-wedding-ring-and-gift-box-s-340x340.jpg" class="attachment-post-small-3 size-post-small-3 wp-post-image" alt="" loading="lazy" srcset="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-5108725-couple-with-wedding-ring-and-gift-box-s-340x340.jpg 340w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-5108725-couple-with-wedding-ring-and-gift-box-s-250x250.jpg 250w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-5108725-couple-with-wedding-ring-and-gift-box-s-43x43.jpg 43w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-5108725-couple-with-wedding-ring-and-gift-box-s-525x525.jpg 525w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-5108725-couple-with-wedding-ring-and-gift-box-s-247x247.jpg 247w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-5108725-couple-with-wedding-ring-and-gift-box-s-250x250@2x.jpg 500w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-5108725-couple-with-wedding-ring-and-gift-box-s-43x43@2x.jpg 86w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-5108725-couple-with-wedding-ring-and-gift-box-s-247x247@2x.jpg 494w" sizes="(min-width: 900px) 50vw, 100vw" /> </div>
-<div class="post-content-cap">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="429px" height="279px" viewBox="0 0 429 279">
-<path d="M219.507483 0 C148.008205 0 0 20.4 0 20.4 L0 278.7 L428.997669 278.7 L428.997669 20.4 C428.997669 20.4 291 0 219.5 0" fill="#1A1918" />
-</svg>
+<div class="row "><div class="row "><div class="wpv-grid grid-1-1  wpv-first-level" style="padding-top:10px;padding-bottom:30px">
+<img src="assets/img/invitation/Invitation.jpg"></div>
 </div>
-<div class="post-content-outer">
-<header class="single">
-<h2>
-<a href="https://the-wedding-day.vamtam.com/fashion-colors/" title="Propose to Sarah">Propose to Sarah</a>
-</h2>
-</header>
-<p>Aristotle made several efforts to explain how moral conduct contributes to the good life for&#8230;</p>
-<div class="post-subheader">
-<h5 class="post-date">
-July 29, 2013 </h5>
+<div class="row "><div class="wpv-grid grid-1-1  wpv-first-level" style="padding-top:10px;padding-bottom:30px">
+<img src="assets/img/invitation/Invitation2.jpg"></div>
 </div>
-<div class="post-content-mark">
-<svg width="29px" height="19px" viewBox="0 0 29 19" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-</svg> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="page-content post-head list-item cbp-item post-303 post type-post status-publish format-image has-post-thumbnail hentry category-aristotle tag-aristotle tag-bullet tag-quotes post_format-post-format-image">
-<div class="post-article has-image-wrapper list-item">
-<div class="image-post-format clearfix as-normal ">
-<div class="thumbnail">
-<img width="340" height="340" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-1903296-wedding-cupcakes-s-340x340.jpg" class="attachment-post-small-3 size-post-small-3 wp-post-image" alt="" loading="lazy" srcset="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-1903296-wedding-cupcakes-s-340x340.jpg 340w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-1903296-wedding-cupcakes-s-250x250.jpg 250w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-1903296-wedding-cupcakes-s-43x43.jpg 43w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-1903296-wedding-cupcakes-s-525x525.jpg 525w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-1903296-wedding-cupcakes-s-247x247.jpg 247w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-1903296-wedding-cupcakes-s-250x250@2x.jpg 500w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-1903296-wedding-cupcakes-s-43x43@2x.jpg 86w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-1903296-wedding-cupcakes-s-247x247@2x.jpg 494w" sizes="(min-width: 900px) 50vw, 100vw" /> </div>
-<div class="post-content-cap">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="429px" height="279px" viewBox="0 0 429 279">
-<path d="M219.507483 0 C148.008205 0 0 20.4 0 20.4 L0 278.7 L428.997669 278.7 L428.997669 20.4 C428.997669 20.4 291 0 219.5 0" fill="#1A1918" />
-</svg>
-</div>
-<div class="post-content-outer">
-<header class="single">
-<h2>
-<a href="https://the-wedding-day.vamtam.com/the-beauty-of-the-old-airplanes/" title="Sweet Cakes">Sweet Cakes</a>
-</h2>
-</header>
-<p>Aristotle made several efforts to explain how moral conduct contributes to the good life for&#8230;</p>
-<div class="post-subheader">
-<h5 class="post-date">
-July 29, 2013 </h5>
-</div>
-<div class="post-content-mark">
-<svg width="29px" height="19px" viewBox="0 0 29 19" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-</svg> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="page-content post-head list-item cbp-item post-5352 post type-post status-publish format-image has-post-thumbnail hentry category-aristotle tag-girl tag-office tag-sun tag-woman post_format-post-format-image">
-<div class="post-article has-image-wrapper list-item">
-<div class="image-post-format clearfix as-normal ">
-<div class="thumbnail">
-<img width="340" height="340" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog7-340x340.jpg" class="attachment-post-small-3 size-post-small-3 wp-post-image" alt="" loading="lazy" srcset="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog7-340x340.jpg 340w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog7-250x250.jpg 250w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog7-43x43.jpg 43w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog7-525x525.jpg 525w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog7-247x247.jpg 247w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog7-250x250@2x.jpg 500w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog7-43x43@2x.jpg 86w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog7-247x247@2x.jpg 494w" sizes="(min-width: 900px) 50vw, 100vw" /> </div>
-<div class="post-content-cap">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="429px" height="279px" viewBox="0 0 429 279">
-<path d="M219.507483 0 C148.008205 0 0 20.4 0 20.4 L0 278.7 L428.997669 278.7 L428.997669 20.4 C428.997669 20.4 291 0 219.5 0" fill="#1A1918" />
-</svg>
-</div>
-<div class="post-content-outer">
-<header class="single">
-<h2>
-<a href="https://the-wedding-day.vamtam.com/blog-post/" title="Having coffee in Venice">Having coffee in Venice</a>
-</h2>
-</header>
-<p>Aristotle made several efforts to explain how moral conduct contributes to the good life for&#8230;</p>
-<div class="post-subheader">
-<h5 class="post-date">
-July 28, 2013 </h5>
-</div>
-<div class="post-content-mark">
-<svg width="29px" height="19px" viewBox="0 0 29 19" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-</svg> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="page-content post-head list-item cbp-item post-298 post type-post status-publish format-image has-post-thumbnail hentry category-aristotle tag-aristotle tag-quotes post_format-post-format-image">
-<div class="post-article has-image-wrapper list-item">
-<div class="image-post-format clearfix as-normal ">
-<div class="thumbnail">
-<img width="340" height="340" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-3132733-wedding-table-s-340x340.jpg" class="attachment-post-small-3 size-post-small-3 wp-post-image" alt="" loading="lazy" srcset="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-3132733-wedding-table-s-340x340.jpg 340w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-3132733-wedding-table-s-250x250.jpg 250w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-3132733-wedding-table-s-43x43.jpg 43w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-3132733-wedding-table-s-525x525.jpg 525w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-3132733-wedding-table-s-247x247.jpg 247w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-3132733-wedding-table-s-250x250@2x.jpg 500w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-3132733-wedding-table-s-43x43@2x.jpg 86w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/07/photodune-3132733-wedding-table-s-247x247@2x.jpg 494w" sizes="(min-width: 900px) 50vw, 100vw" /> </div>
-<div class="post-content-cap">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="429px" height="279px" viewBox="0 0 429 279">
-<path d="M219.507483 0 C148.008205 0 0 20.4 0 20.4 L0 278.7 L428.997669 278.7 L428.997669 20.4 C428.997669 20.4 291 0 219.5 0" fill="#1A1918" />
-</svg>
-</div>
-<div class="post-content-outer">
-<header class="single">
-<h2>
-<a href="https://the-wedding-day.vamtam.com/sunset-at-stansted-airport/" title="The dinner">The dinner</a>
-</h2>
-</header>
-<p>Aristotle made several efforts to explain how moral conduct contributes to the good life for&#8230;</p>
-<div class="post-subheader">
-<h5 class="post-date">
-July 27, 2013 </h5>
-</div>
-<div class="post-content-mark">
-<svg width="29px" height="19px" viewBox="0 0 29 19" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-</svg> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="page-content post-head list-item cbp-item post-308 post type-post status-publish format-image has-post-thumbnail hentry category-aristotle tag-quotes post_format-post-format-image">
-<div class="post-article has-image-wrapper list-item">
-<div class="image-post-format clearfix as-normal ">
-<div class="thumbnail">
-<img width="340" height="340" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog4-340x340.jpg" class="attachment-post-small-3 size-post-small-3 wp-post-image" alt="" loading="lazy" srcset="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog4-340x340.jpg 340w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog4-250x250.jpg 250w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog4-43x43.jpg 43w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog4-525x525.jpg 525w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog4-247x247.jpg 247w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog4-250x250@2x.jpg 500w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog4-43x43@2x.jpg 86w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog4-247x247@2x.jpg 494w" sizes="(min-width: 900px) 50vw, 100vw" /> </div>
-<div class="post-content-cap">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="429px" height="279px" viewBox="0 0 429 279">
-<path d="M219.507483 0 C148.008205 0 0 20.4 0 20.4 L0 278.7 L428.997669 278.7 L428.997669 20.4 C428.997669 20.4 291 0 219.5 0" fill="#1A1918" />
-</svg>
-</div>
-<div class="post-content-outer">
-<header class="single">
-<h2>
-<a href="https://the-wedding-day.vamtam.com/the-face-you-will-remember/" title="The day before the weding">The day before the weding</a>
-</h2>
-</header>
-<p>Aristotle made several efforts to explain how moral conduct contributes to the good life for&#8230;</p>
-<div class="post-subheader">
-<h5 class="post-date">
-March 22, 2013 </h5>
-</div>
-<div class="post-content-mark">
-<svg width="29px" height="19px" viewBox="0 0 29 19" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-</svg> </div>
-</div>
-</div>
-</div>
-</div>
- <div class="page-content post-head list-item cbp-item post-294 post type-post status-publish format-image has-post-thumbnail hentry category-aristotle tag-quotes post_format-post-format-image">
-<div class="post-article has-image-wrapper list-item">
-<div class="image-post-format clearfix as-normal ">
-<div class="thumbnail">
-<img width="340" height="340" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog1-340x340.jpg" class="attachment-post-small-3 size-post-small-3 wp-post-image" alt="" loading="lazy" srcset="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog1-340x340.jpg 340w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog1-250x250.jpg 250w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog1-43x43.jpg 43w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog1-525x525.jpg 525w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog1-247x247.jpg 247w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog1-250x250@2x.jpg 500w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog1-43x43@2x.jpg 86w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/blog1-247x247@2x.jpg 494w" sizes="(min-width: 900px) 50vw, 100vw" /> </div>
-<div class="post-content-cap">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="429px" height="279px" viewBox="0 0 429 279">
-<path d="M219.507483 0 C148.008205 0 0 20.4 0 20.4 L0 278.7 L428.997669 278.7 L428.997669 20.4 C428.997669 20.4 291 0 219.5 0" fill="#1A1918" />
-</svg>
-</div>
-<div class="post-content-outer">
-<header class="single">
-<h2>
-<a href="https://the-wedding-day.vamtam.com/planning-my-first-trip-to-david-goliath/" title="Planning my honeymoon">Planning my honeymoon</a>
-</h2>
-</header>
-<p>Aristotle made several efforts to explain how moral conduct contributes to the good life for&#8230;</p>
-<div class="post-subheader">
-<h5 class="post-date">
-March 22, 2013 </h5>
-</div>
-<div class="post-content-mark">
-<svg width="29px" height="19px" viewBox="0 0 29 19" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-</svg> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div>
+<div class="push" style='height:30px'></div></div>
+
 <!-- <div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-b5f0f2ca19cb2878c8b9fb905f8cbe6d"><p style="text-align: center;"><img loading="lazy" class="aligncenter size-full wp-image-6599" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/element-2.svg" alt="illustratation5" width="58" height="122" /> <a href="https://the-wedding-day.vamtam.com/blog/blog-layout-3/" target="_self" style='font-size: 24px;' class="vamtam-button accent1  "><span class="btext">GO TO BLOG</span></a><div class="push" style='height:50px'></div></div></div> -->
-<div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first has-background extended" style="
-				background: url('https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/bg_pattrn.png') repeat ;
-				background-size: auto;
-				background-attachment: fixed;
-			padding-top:30px;padding-bottom:40px" id="wpv-column-bbf86e518f4764452daea618b253ed67"><div class="extended-column-inner"><h2 style="text-align: center;">WHAT WE LIKE:</h2>
-<div class="push" style='height:5px'></div>
-<p style="text-align: center;">This is Photoshop’s version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.<br />
-Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-<div class="row "><div class="wpv-grid grid-1-5  first unextended animation-from-right animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-cb0e6e162e600c47ebc1413003fd1d0b"><p style="text-align: center;"><div class="push" style='height:50px'></div><a href="http://www.tiffany.com/Registry/View.aspx?cookietest=1&amp;id=1031508" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="aligncenter size-full wp-image-6611" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/logo-1.png" alt="logo-1" width="176" height="156" /></a></p>
-<h5 style="text-align: center;"><a href="http://www.tiffany.com/Registry/View.aspx?cookietest=1&amp;id=1031508" target="_blank" rel="noopener noreferrer">GIFT LIST<br />
-@ TIFFANY.COM</a></h5></div>
-<div class="wpv-grid grid-1-6  unextended animation-from-right animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-1f92cf23bf03afa2297cbb12ff395ade"><div class="push" style='height:100px'></div><img loading="lazy" class="aligncenter size-full wp-image-6601" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/element-6.svg" alt="illustratation7" width="91" height="75" />
-<div class="push" style='height:100px'></div></div>
-<div class="wpv-grid grid-1-4  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-73c52f19b91f97fa9f6a9c9fedd0297d"><p><img loading="lazy" class="aligncenter" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photo5.png" alt="photo5" width="284" height="323" /></p></div>
-<div class="wpv-grid grid-1-6  unextended animation-from-left animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-1867616a09eb063a366ccebf91bc9b30"><div class="push" style='height:100px'></div><img loading="lazy" class="aligncenter size-full wp-image-6600" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/element-7.svg" alt="illustratation6" width="91" height="75" />
-<div class="push" style='height:60px'></div></div>
-<div class="wpv-grid grid-1-5  unextended animation-from-left animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-e87af5942ad442dd58d8c04ccaf69e65"><p style="text-align: center;"><div class="push" style='height:50px'></div><a href="http://www.amazon.com/gp/registry/registry.html?ie=UTF8&amp;id=1771OZTWSXBUE&amp;type=wedding"><img loading="lazy" class="aligncenter size-full wp-image-6612" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/logo-2.png" alt="logo-2" width="176" height="156" /></a></p>
-<h5 style="text-align: center;"><a href="http://www.amazon.com/gp/registry/registry.html?ie=UTF8&amp;id=1771OZTWSXBUE&amp;type=wedding" target="_blank" rel="noopener noreferrer">GIFT LIST<br />
-@ TIFFANY.COM</a></h5></div></div>
-<div class="row "><div class="wpv-grid grid-1-1  first unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-e3124ea134b70cc4810c8ec77b8058da"><div class="push" style='height:20px'></div>
-<h1 style="text-align: center;"><span style="color: #f07677;">THANK YOU!</span></h1></div></div></div></div></div>
-<div class="push" style='height:30px'></div>
-<div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first unextended" style="padding-top:10px;padding-bottom:30px" id="wpv-column-37688c495af86c1cfd610a43e54e9fca"><h2 class='column-title'>SELECTION OF PHOTOS OF SARAH &amp; NICK:</h2><div class="push" style='height:30px'></div>
+
+<!-- <div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first unextended" style="padding-top:10px;padding-bottom:30px" id="wpv-column-37688c495af86c1cfd610a43e54e9fca"><h2 class='column-title'>Selection Photos of Salomo &amp; Friska:</h2><div class="push" style='height:30px'></div>
 <section class="portfolios normal clearfix title-false no-description " id="6024e041877ae">
 <div class="portfolio-items vamtam-cubeportfolio cbp portfolio-items " data-columns="3" data-options="{&quot;layoutMode&quot;:&quot;grid&quot;,&quot;defaultFilter&quot;:&quot;*&quot;,&quot;animationType&quot;:&quot;slideDelay&quot;,&quot;gapHorizontal&quot;:30,&quot;gapVertical&quot;:30,&quot;gridAdjustment&quot;:&quot;responsive&quot;,&quot;mediaQueries&quot;:[{&quot;width&quot;:712.5,&quot;cols&quot;:3},{&quot;width&quot;:465,&quot;cols&quot;:2},{&quot;width&quot;:217.5,&quot;cols&quot;:1}],&quot;displayType&quot;:&quot;bottomToTop&quot;,&quot;displayTypeSpeed&quot;:100,&quot;showPagination&quot;:false}" data-hidden-by-filters="New items were loaded, but they are hidden because of your choice of filters">
 <div data-id="325" data-type="image-lightbox" class="no-title no-description grid-1-3 has-button state-closed vamtam-project cbp-item">
 <div class="portfolio-item-wrapper">
 <div class="portfolio_image">
 <div class="thumbnail" style="max-height:400px">
-<a class=" vamtam-lightbox thumbnail-url image" target="_self" href="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-4786768-three-women-with-background-full-of-roses-s.jpg" rel="portfolio_967">
-<img width="247" height="154" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-4786768-three-women-with-background-full-of-roses-s-247x154.jpg" class="attachment-portfolio-loop-4 size-portfolio-loop-4 wp-post-image" alt="" loading="lazy" srcset="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-4786768-three-women-with-background-full-of-roses-s-247x154.jpg 247w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-4786768-three-women-with-background-full-of-roses-s-400x250.jpg 400w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-4786768-three-women-with-background-full-of-roses-s-525x328.jpg 525w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-4786768-three-women-with-background-full-of-roses-s-340x212.jpg 340w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-4786768-three-women-with-background-full-of-roses-s-247x154@2x.jpg 494w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-4786768-three-women-with-background-full-of-roses-s-400x250@2x.jpg 800w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-4786768-three-women-with-background-full-of-roses-s-340x212@2x.jpg 680w" sizes="(min-width: 900px) 50vw, 100vw" /> <span class="thumbnail-overlay">
+<a class=" vamtam-lightbox thumbnail-url image" target="_self" href="assets/img/1.jpg" rel="portfolio_967">
+<img style="width:340px; height:212px;" src="assets/img/1.jpg" class="attachment-portfolio-loop-4 size-portfolio-loop-4 wp-post-image" alt="" loading="lazy" /> <span class="thumbnail-overlay">
 <span class="icon">&#57836;</span>
 </span>
 </a>
@@ -418,7 +229,7 @@ Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec 
 <div class="portfolio_image">
 <div class="thumbnail" style="max-height:400px">
 <a class=" no-lightbox thumbnail-url link" target="_self" href="https://the-wedding-day.vamtam.com/portfolio/david-goliath-mountain/">
-<img width="247" height="154" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-247x154.jpg" class="attachment-portfolio-loop-4 size-portfolio-loop-4 wp-post-image" alt="" loading="lazy" srcset="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-247x154.jpg 247w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-400x250.jpg 400w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-525x328.jpg 525w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-340x212.jpg 340w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-247x154@2x.jpg 494w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-400x250@2x.jpg 800w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-340x212@2x.jpg 680w" sizes="(min-width: 900px) 50vw, 100vw" /> <span class="thumbnail-overlay">
+<img style="width:340px; height:212px;" width="247" height="154" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-247x154.jpg" class="attachment-portfolio-loop-4 size-portfolio-loop-4 wp-post-image" alt="" loading="lazy" srcset="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-247x154.jpg 247w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-400x250.jpg 400w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-525x328.jpg 525w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-340x212.jpg 340w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-247x154@2x.jpg 494w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-400x250@2x.jpg 800w, https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/photodune-675540-bride-waving-hand-holding-bouquet-s-340x212@2x.jpg 680w" sizes="(min-width: 900px) 50vw, 100vw" /> <span class="thumbnail-overlay">
 <span class="icon">&#57836;</span>
 </span>
 </a>
@@ -475,7 +286,7 @@ Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec 
 </div>
 </div> </div>
 </section>
-<p class="textcenter"><a href="https://the-wedding-day.vamtam.com/portfolio-layouts/masonry-style/" target="_self" style='font-size: 22px;' class="vamtam-button accent1  "><span class="btext">GO TO GALLERY</span></a></p><div class="push" style='height:30px'></div></div></div>
+<div class="push" style='height:30px'></div></div></div> -->
 </div>
 </article>
 </div>
@@ -492,18 +303,18 @@ Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec 
 <aside class="cell-1-3  fit">
 <section id="text-10" class="widget widget_text"> <div class="textwidget"><div class="push" style='height:30px'></div>
 <h2 style="text-align: center;"><span style="color: #cacaca;">WELCOME</span></h2>
-<h6 style="text-align: center;">ON THURSDAY &#8211; 31 OCTOBER 2021</h6>
+<h6 style="text-align: center;">On Saturday &#8211; 06 March 2021</h6>
 <div class="push" style='height:15px'></div>
 </div>
 </section> </aside>
 <aside class="cell-1-3  fit">
-<section id="text-12" class="widget widget_text"> <div class="textwidget"><img class="aligncenter size-full wp-image-6629" alt="illustratation8" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/illustratation81.png" width="123" height="118" />
+<section id="text-12" class="widget widget_text"> <div class="textwidget"><!-- <img class="aligncenter size-full wp-image-6629" alt="illustratation8" src="https://the-wedding-day.vamtam.com/wp-content/uploads/2013/03/illustratation81.png" width="123" height="118" /> -->
 </div>
 </section> </aside>
 <aside class="cell-1-3  last fit">
 <section id="text-11" class="widget widget_text"> <div class="textwidget"><div class="push" style='height:30px'></div>
 <h2 style="text-align: center;"><span style="color: #cacaca;">CONTACT US</span></h2>
-<h6 style="text-align: center;"><a title="Contact Us" href="/pages/contact-us/"><span style="color: #cacaca;">NICK SMITH &amp; SARAH BELLUCCI</span></a></h6></div>
+<h6 style="text-align: center;"><a title="Contact Us" href="https://api.whatsapp.com/send?phone=081288643757"><span style="color: #cacaca;">Salomo &amp; Friska</span></a></h6></div>
 </section> </aside>
 </div>
 </div>
@@ -558,8 +369,9 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/the-wedding-day.vamtam.com\/wp-jso
 		$("#hours").text(xxx.hours);
 		$("#minutes").text(xxx.minutes);
 		$("#seconds").text(xxx.seconds);
-		// console.log(xxx)
-		},new Date(2021, 2, 6));
+		// console.log(new Date(2021, 2, 7,9));
+
+		},new Date(2021, 2, 6,9,0,0));
 
 </script>
 <script type='text/javascript' src='https://the-wedding-day.vamtam.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
