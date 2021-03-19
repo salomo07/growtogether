@@ -196,7 +196,7 @@ lsjQuery("#layerslider_1").layerSlider({sliderVersion: '6.0.6', responsiveUnder:
 </span>
 </div>
 <div class="push" style='height:50px'></div>
-<h2 style="text-align: center;"> until we get married!</h2></div></div></div>
+<h2 style="text-align: center;">We get married!</h2></div></div></div>
 <div class="push" style='height:40px'></div>
 <h2 style="text-align: center;">THE WEDDING EVENTS: <div class="push" style='height:30px'></div></h2>
 <div class="row "><div class="row "><div class="wpv-grid grid-1-1  wpv-first-level" style="padding-top:10px;padding-bottom:30px">
