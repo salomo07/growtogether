@@ -176,11 +176,11 @@ lsjQuery("#layerslider_1").layerSlider({sliderVersion: '6.0.6', responsiveUnder:
 <div class="push" style='height:50px'></div>
 <div class="wpv-countdown" data-until="9" data-done="">
 <span class="wpvc-block">
-<span class="wpvc-block">
-<div class="value" id="years"></div>
+<div class="value" id="years">0</div>
 <div class="value-label">Years</div>
 </span>
 <span class="wpvc-sep">:</span>
+<span class="wpvc-block">
 <div class="value" id="days"></div>
 <div class="value-label">Days</div>
 </span>
