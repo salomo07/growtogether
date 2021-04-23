@@ -177,7 +177,7 @@ lsjQuery("#layerslider_1").layerSlider({sliderVersion: '6.0.6', responsiveUnder:
 <div class="wpv-countdown" data-until="9" data-done="">
 <span class="wpvc-block">
 <span class="wpvc-block">
-<div class="value" id="years">17</div>
+<div class="value" id="years"></div>
 <div class="value-label">Years</div>
 </span>
 <span class="wpvc-sep">:</span>
@@ -440,7 +440,7 @@ function countUpFromTime(countFrom, id) {
   $('#hours').text(hours);
   $('#minutes').text(mins);
   $('#seconds').text(secs);
-  
+
   clearTimeout(countUpFromTime.interval);
   countUpFromTime.interval = setTimeout(function(){ countUpFromTime(countFrom); }, 1000);
 }
