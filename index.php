@@ -379,7 +379,7 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/the-wedding-day.vamtam.com\/wp-jso
 		},new Date(2021, 2, 6,9,0,0));
 
 </script> -->
-<script type='text/javascript' src='https://the-wedding-day.vamtam.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+
 <script type='text/javascript' src='https://the-wedding-day.vamtam.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
 <script type='text/javascript' src='https://the-wedding-day.vamtam.com/wp-includes/js/backbone.min.js?ver=1.4.0' id='backbone-js'></script>
 <script type='text/javascript' id='vamtam-push-menu-js-extra'>
@@ -414,10 +414,11 @@ var VAMTAM_FRONT = {"content_width":"1080","cube_path":"https:\/\/the-wedding-da
 
 <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9700abca30","applicationID":"9339867","transactionName":"YFUHbUVUDBZZAkZZXFkfJFpDXA0LFxFTV1Y=","queueTime":0,"applicationTime":653,"atts":"TBIEGw1OHxg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script>
 	window.onload = function() {
   // Month Day, Year Hour:Minute:Second, id-of-element-container
-  countUpFromTime("Mar 6, 2021 10:00:00"); // ****** Change this line!
+  countUpFromTime("March 6, 2021 10:00:00"); // ****** Change this line!
 };
 function countUpFromTime(countFrom, id) {
   countFrom = new Date(countFrom).getTime();
@@ -435,7 +436,7 @@ function countUpFromTime(countFrom, id) {
   mins = Math.floor(((timeDifference % (secondsInADay)) % (secondsInAHour)) / (60 * 1000) * 1);
   secs = Math.floor((((timeDifference % (secondsInADay)) % (secondsInAHour)) % (60 * 1000)) / 1000 * 1);
 
-  $('#years').text(days);
+  $('#years').text(years);
   $('#days').text(days);
   $('#hours').text(hours);
   $('#minutes').text(mins);
