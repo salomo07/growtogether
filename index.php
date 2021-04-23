@@ -176,6 +176,11 @@ lsjQuery("#layerslider_1").layerSlider({sliderVersion: '6.0.6', responsiveUnder:
 <div class="push" style='height:50px'></div>
 <div class="wpv-countdown" data-until="9" data-done="">
 <span class="wpvc-block">
+<span class="wpvc-block">
+<div class="value" id="years">17</div>
+<div class="value-label">Years</div>
+</span>
+<span class="wpvc-sep">:</span>
 <div class="value" id="days"></div>
 <div class="value-label">Days</div>
 </span>
@@ -361,7 +366,7 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/the-wedding-day.vamtam.com\/wp-jso
 /* ]]> */
 </script>
 <script src="assets/js/countdown.min.js"></script>
-<script>
+<!-- <script>
 	var $=window.jQuery;
 	// countdown( new Date(2021, 3, 6) ).toString();
 	countdown((xxx)=>{
@@ -373,7 +378,7 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/the-wedding-day.vamtam.com\/wp-jso
 
 		},new Date(2021, 2, 6,9,0,0));
 
-</script>
+</script> -->
 <script type='text/javascript' src='https://the-wedding-day.vamtam.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
 <script type='text/javascript' src='https://the-wedding-day.vamtam.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
 <script type='text/javascript' src='https://the-wedding-day.vamtam.com/wp-includes/js/backbone.min.js?ver=1.4.0' id='backbone-js'></script>
@@ -409,4 +414,35 @@ var VAMTAM_FRONT = {"content_width":"1080","cube_path":"https:\/\/the-wedding-da
 
 <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9700abca30","applicationID":"9339867","transactionName":"YFUHbUVUDBZZAkZZXFkfJFpDXA0LFxFTV1Y=","queueTime":0,"applicationTime":653,"atts":"TBIEGw1OHxg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
+<script>
+	window.onload = function() {
+  // Month Day, Year Hour:Minute:Second, id-of-element-container
+  countUpFromTime("Mar 6, 2021 10:00:00"); // ****** Change this line!
+};
+function countUpFromTime(countFrom, id) {
+  countFrom = new Date(countFrom).getTime();
+  var now = new Date(),
+      countFrom = new Date(countFrom),
+      timeDifference = (now - countFrom);
+    
+  var secondsInADay = 60 * 60 * 1000 * 24,
+      secondsInAHour = 60 * 60 * 1000;
+    
+  days = Math.floor(timeDifference / (secondsInADay) * 1);
+  years = Math.floor(days / 365);
+  if (years > 1){ days = days - (years * 365) }
+  hours = Math.floor((timeDifference % (secondsInADay)) / (secondsInAHour) * 1);
+  mins = Math.floor(((timeDifference % (secondsInADay)) % (secondsInAHour)) / (60 * 1000) * 1);
+  secs = Math.floor((((timeDifference % (secondsInADay)) % (secondsInAHour)) % (60 * 1000)) / 1000 * 1);
+
+  $('#years').text(days);
+  $('#days').text(days);
+  $('#hours').text(hours);
+  $('#minutes').text(mins);
+  $('#seconds').text(secs);
+  
+  clearTimeout(countUpFromTime.interval);
+  countUpFromTime.interval = setTimeout(function(){ countUpFromTime(countFrom); }, 1000);
+}
+</script>
 
